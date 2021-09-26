@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MelonSerut88
 - ⚡ Fun fact: Im suck at Programer i need 4 hour for solve my problem
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjenius20&show_icons=true&theme=radical)
