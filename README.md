@@ -1,4 +1,5 @@
-<h1 align="center">Hello</h1>
+<h1 align="center">Hello im Gjenius</h1>
+<h2>and keep still Learning</h2>
 
 - 🔭 I’m currently Im was student
 - 🌱 I’m currently learning Node.js, Javascript, Css, Html, python, and java
