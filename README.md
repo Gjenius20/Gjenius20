@@ -3,9 +3,8 @@
 <p>- 🔭 I’m currently Im was student </p>
 <p>- 🌱 I’m currently learning Java And JavaScript</p>
 <p>- ⚡ Fun fact: Im suck at Programer i need 1 week for solve my problem</p>
-<p><h2 weight="40px">- 👯 I’m looking to collaborate</h2>
+<h2 weight="40px">- 👯 I’m looking to collaborate</h2>
   <img href="" src="https://avatars.githubusercontent.com/u/76912443?v=4" height="50px" width="50px"><img href="" src="https://avatars.githubusercontent.com/u/76912443?v=4" height="50px" width="50px"><img href="" src="https://avatars.githubusercontent.com/u/76912443?v=4" height="50px" width="50px">
- </p>
 
 
 
