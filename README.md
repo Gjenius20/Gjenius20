@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, There i'm Gjenius</h1>
-<h3 align="center">Im beginner programer</h3>
+<h1 align="left">Hi 👋, There i'm Gjenius</h1>
+<h3 align="left">Im beginner programer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjenius20&label=Profile%20views&color=0e75b6&style=flat" alt="gjenius20" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
-- 👯 I’m looking to collaborate with [Kronics/RUW3T](https://github.com/RU3WT)
+- 👯 I’m looking to collaborate with [Kronics/RUW3T](https://github.com/RUW3T)
 
 - ⚡ Fun fact **I SUCK**
 
