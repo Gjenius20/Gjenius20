@@ -1,10 +1,10 @@
 <h1 align="left">👏Hello im Gjenius</h1>
-<h5 align="left" weight="20px">and keep still Learning</h5>
-<p>- 🔭 I’m currently Im was student </p>
-<p>- 🌱 I’m currently learning Java And JavaScript</p>
-<p>- ⚡ Fun fact: Im suck at Programer i need 1 week for solve my problem</p>
+<h5 weight="20px">and keep still Learning</h5>
+<p align="center">- 🔭 I’m currently Im was student </p>
+<p align="center">- 🌱 I’m currently learning Java And JavaScript</p>
+<p align="center">- ⚡ Fun fact: Im suck at Programer i need 1 week for solve my problem</p>
 <h2>- 👯 I’m looking to collaborate with:</h2>
-<p><a href="https://github.com/RUW3T"><img align="left" src="https://avatars.githubusercontent.com/u/76912443?v=4" width="36px">@Kronics/RUW3T</a></p>
+<p align="left">@Kronics/RUW3T</a></p>
 
 
 
