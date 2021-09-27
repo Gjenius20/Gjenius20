@@ -9,6 +9,6 @@
 <p align="left"><a href="https://github.com/Gjenius20">@Kronics/RUW3T</a></p>
 
 <h3>Skills</h3>
-<p><img src"https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"><p>
+<p><img src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"><p>
 
 
