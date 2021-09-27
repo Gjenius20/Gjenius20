@@ -3,7 +3,7 @@
 <p>- 🔭 I’m currently Im was student </p>
 <p>- 🌱 I’m currently learning Java And JavaScript</p>
 <p>- ⚡ Fun fact: Im suck at Programer i need 1 week for solve my problem</p>
-<p>- 👯 I’m looking to collaborate with <a href="https://github.com/RUW3T" alt="colaborate"><img src="https://avatars.githubusercontent.com/u/76912443?v=4" width="20px" height="20px">@RUW3T/Kronics</p>
+<p>- 👯 I’m looking to collaborate with <a href="https://github.com/RUW3T" alt="colaborate"><img src="https://avatars.githubusercontent.com/u/76912443?v=4" width="30px" height="30px">@RUW3T/Kronics</p>
 
 
 
