@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning Java And JavaScript
 - ⚡ Fun fact: Im suck at Programer i need 1 week for solve my problem
 
-<h2>- 👯 I’m looking to collaborate with:</h2>
+<h3>- 👯 I’m looking to collaborate with:</h3>
 <p align="left"><a href="https://github.com/Gjenius20">@Kronics/RUW3T</a></p>
 
-
-
+<h3>Skills</h3>
+<p><img src"https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"><p>
 
 
