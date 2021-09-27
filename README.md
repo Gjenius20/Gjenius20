@@ -4,7 +4,7 @@
 <p align="center">- 🌱 I’m currently learning Java And JavaScript</p>
 <p align="center">- ⚡ Fun fact: Im suck at Programer i need 1 week for solve my problem</p>
 <h2>- 👯 I’m looking to collaborate with:</h2>
-<p align="left">@Kronics/RUW3T</a></p>
+<p align="left"><a href="https://github.com/Gjenius20">@Kronics/RUW3T</a></p>
 
 
 
