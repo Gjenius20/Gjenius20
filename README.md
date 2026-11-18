@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="600" />
+  <img src="./Frame 3 (1).png" alt="Banner" width="600" />
 </p>
 
 <p align="center">
